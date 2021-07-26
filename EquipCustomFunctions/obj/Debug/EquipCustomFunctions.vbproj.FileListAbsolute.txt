@@ -1,0 +1,12 @@
+C:\Users\rpoudel\source\repos\EQUIP_V1\EquipCustomFunctions\bin\Debug\EquipCustomFunctions.dll
+C:\Users\rpoudel\source\repos\EQUIP_V1\EquipCustomFunctions\bin\Debug\EquipCustomFunctions.pdb
+C:\Users\rpoudel\source\repos\EQUIP_V1\EquipCustomFunctions\bin\Debug\EquipCustomFunctions.xml
+C:\Users\rpoudel\source\repos\EQUIP_V1\EquipCustomFunctions\obj\Debug\EquipCustomFunctions.Resources.resources
+C:\Users\rpoudel\source\repos\EQUIP_V1\EquipCustomFunctions\obj\Debug\EquipCustomFunctions.vbproj.GenerateResource.cache
+C:\Users\rpoudel\source\repos\EQUIP_V1\EquipCustomFunctions\obj\Debug\EquipCustomFunctions.vbproj.CoreCompileInputs.cache
+C:\Users\rpoudel\source\repos\EQUIP_V1\EquipCustomFunctions\obj\Debug\EquipCustomFunctions.dll
+C:\Users\rpoudel\source\repos\EQUIP_V1\EquipCustomFunctions\obj\Debug\EquipCustomFunctions.xml
+C:\Users\rpoudel\source\repos\EQUIP_V1\EquipCustomFunctions\obj\Debug\EquipCustomFunctions.pdb
+C:\Users\rpoudel\source\repos\EQUIP_V1\EquipCustomFunctions\bin\Debug\EquipCustomFunctions.tlb
+C:\Users\rpoudel\source\repos\EQUIP_V1\EquipCustomFunctions\bin\Debug\ComClassJarden.vb
+C:\Users\rpoudel\source\repos\EQUIP_V1\EquipCustomFunctions\obj\Debug\EquipCustomFunctions.vbproj.AssemblyReference.cache
